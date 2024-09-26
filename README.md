@@ -73,7 +73,3 @@ e(t) = \xi(t) + \frac{1}{2}\xi(t - 1) + \frac{1}{4}\xi(t - 2)
 \]
 
 Repeat the simulation steps from B1. Discuss how the presence of colored noise affects the estimation accuracy of the AR(1) and AR(2) models.
-
----
-
-This README provides a structured and clear overview of the assignments, without any references to your university, adhering to your request for rephrasing. You can add this file directly to your GitHub repository.
