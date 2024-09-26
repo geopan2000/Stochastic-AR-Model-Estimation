@@ -1,4 +1,4 @@
-# Systems Identification
+# Stochastic-AR-Model-Estimation
 
 The assignments focus on analyzing stationary stochastic processes and applying parameter estimation techniques using Auto-Regressive (AR) models. All MATLAB codes for simulations are included.
 
